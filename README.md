@@ -1,5 +1,5 @@
-# test-project
-Shopping List practice code
+# test-project-shopping-list
+
 This Code is just for practice and for learning. The intent is to
 create the code for someone to make and unordered list that allows them 
 to tap the list item and line the item out ONCLICK. This is just somthing that I 
